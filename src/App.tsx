@@ -6,6 +6,8 @@ function App() {
 
       React Templating Application
       <span>Some test changes</span>
+      <span>Some test changes -2</span>
+
 
 
       React Templating Application -> changes made by thomas otim
