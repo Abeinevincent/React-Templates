@@ -10,7 +10,7 @@ function App() {
 
 
 
-      React Templating Application -> changes made by thomas otim
+      React Templating Application - changes made by thomas otim
 
     </div>
   );
